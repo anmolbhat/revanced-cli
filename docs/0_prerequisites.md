@@ -8,6 +8,9 @@ To use the ReVanced CLI, you will need to fulfill certain requirements.
   you communicate with a device (optional).
 - A x86/x86_64 host (or a custom AAPT binary for your architecture)
 - Zulu OpenJDK 17
+- Revanced CLI (.jar file from Releases)
+- Revanced Patches (.jar file from Releases of Revanced Patches)
+- Revanced Integrations (.apk file from Releases of Revanced Integrations)
 - An APK file (e.g. YouTube v17.49.37 or YouTube Music v5.36.51)
 
 ## ⏭️ Whats next
