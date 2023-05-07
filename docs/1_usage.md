@@ -55,7 +55,7 @@ Learn how to use the ReVanced CLI.
 
 > **Note**:
 > Check all options from help menu -h.
-> - If you want to exclude patches, you can use the option `-e`. In the case of YouTube, you can exclude
+> - If you want to exclude patches, you can use the option `-e`. In the case of YouTube(Root), you can exclude
     the `vanced-microg-support` patch from [ReVanced Patches](https://github.com/revanced/revanced-patches) with the
     option `-e vanced-microg-support` when mounting for example.
 >
